@@ -1,18 +1,31 @@
 {
-  "usuarios": [
+  "movies": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "titulo": "Terremoto: A Falha de San Andreas",
+      "ano": 2015,
+      "sinopse": "Depois de um terremoto de grande intensidade destruir a Califórnia, um piloto de helicóptero especializado em resgate inicia uma difícil jornada para encontrar sua filha e sua ex-esposa.",
+      "elenco": ["Dwayne Johnson (Ray)", "Alexandra Daddario (Blake)", "Carla Gugino (Emma)"],
+      "trailer": "https://www.youtube.com/embed/nuHbHfdfuBc",
+      "genero": "Ação"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "titulo": "Sem Rastros",
+      "ano": 2018,
+      "sinopse": "Um pai e sua filha adolescente vivem isolados na floresta, mas são forçados a enfrentar o mundo exterior quando são descobertos.",
+      "elenco": ["Ben Foster (Will)", "Thomasin McKenzie (Tom)"],
+      "trailer": "https://www.youtube.com/embed/8N0jPb_3iKk",
+      "genero": "Drama"
+    },
+    {
+      "id": 3,
+      "titulo": "Onde Está Segunda?",
+      "ano": 2017,
+      "sinopse": "Em um futuro onde famílias só podem ter um filho, sete irmãs gêmeas lutam para sobreviver e desvendar um mistério.",
+      "elenco": ["Noomi Rapace (Sete Irmãs)", "Glenn Close (Nicolette)", "Willem Dafoe (Terrence)"],
+      "trailer": "https://www.youtube.com/embed/Ea7uS2iVv0Y",
+      "genero": "Ficção Científica"
     }
   ]
 }
